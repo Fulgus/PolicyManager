@@ -32,7 +32,7 @@ The message must be of an specific format.
 
 Encryption method  | 
 
-IV used>/<Nonce used | 
+IV used/Nonce used | 
 
 Key used (Symmetric environment) |
 
