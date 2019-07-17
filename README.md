@@ -30,13 +30,13 @@ The message must be of an specific format.
 
 ---MESSAGE FORMAT---
 
-<Encryption method>  | 
+Encryption method  | 
 
-<IV used>/<Nonce used> | 
+IV used>/<Nonce used | 
 
-<Key used> (Symmetric environment) |
+Key used (Symmetric environment) |
 
-<Message content encrypted in the method above>
+Message content encrypted in the method above
 
 ---END OF MESSAGE FORMAT---
 
